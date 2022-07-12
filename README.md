@@ -1,1 +1,1 @@
-## A chrome extension to limit the recommendations ofyoutube videos shown
+## A chrome extension to limit the recommendations of youtube videos shown
